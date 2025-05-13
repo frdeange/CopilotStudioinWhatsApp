@@ -1,0 +1,6 @@
+azure-communication-messages
+fastapi
+httpx
+python-dotenv
+uvicorn
+websocket-client
