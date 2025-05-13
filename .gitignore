@@ -70,11 +70,5 @@ ngrok.yml
 # MacOS
 .DS_Store
 
-# Images, docs, and other non-source artifacts
-*.png
-*.jpg
-*.jpeg
-*.gif
-
 # Ignore docs build output
 /docs/_build/
